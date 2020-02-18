@@ -31,4 +31,6 @@
 28. [Day-28](https://github.com/amit6604/Machine-Learning-30-days-interview/blob/master/0(28).pdf)
 29. [Day-29](https://github.com/amit6604/Machine-Learning-30-days-interview/blob/master/0(29).pdf)
 30. [Day-30](https://github.com/amit6604/Machine-Learning-30-days-interview/blob/master/0(30).pdf)
-#######Happy Learning###########
+
+
+# Happy Learning
