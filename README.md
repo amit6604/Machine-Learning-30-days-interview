@@ -1,4 +1,4 @@
-# Machine-Learning-30-days-interview Guide (credit- ineuron)
+# Machine-Learning-30-days-interview Guide ([credit- ineuron] (https://ineuron.ai/home/))
 
 
 1.  [Day-1](https://github.com/amit6604/Machine-Learning-30-days-interview/blob/master/0(1).pdf)
